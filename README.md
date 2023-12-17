@@ -8,3 +8,4 @@
 Комбинированное выделение **звездочками и _подчеркиванием_**.
 
 Для зачеркнутого текста используются две тильды . ~~Уберите это.~~
+![image](https://github.com/grishabubalgum228/Homework-phyton-Kosov-Gregory/assets/154060946/acc6d414-612a-4d5e-b143-684ee8bc169f)
